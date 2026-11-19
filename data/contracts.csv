@@ -1,0 +1,4 @@
+contract,cap,minimum_tier,share_weight,eligible_group
+c1,1000,1,0.5,all
+c2,1000,2,0.5,youth
+c3,1000,1,1,all
