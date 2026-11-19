@@ -1,0 +1,5 @@
+batch,contract,amount,sent,source_revision
+b1,c1,120,1,rev-1
+b1,c2,180,1,rev-1
+b2,c2,50,0,rev-2
+b2,c3,40,0,rev-2

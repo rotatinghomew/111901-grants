@@ -1,0 +1,3 @@
+correction_id,event,contract,from_resident,to_resident,status,received_date
+K1,e5,c2,r9,r5,pending,2026-07-02
+K2,e0,c1,r2,r1,applied,2026-06-20

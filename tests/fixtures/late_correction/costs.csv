@@ -1,0 +1,13 @@
+expense,event,contract,amount,eligible_share,approval
+y01,e0,c1,80,0.5,approved
+y02,e1,c1,40,0.5,approved
+y03,e2,c1,40,0.5,approved
+y04,e3,c1,40,0.5,approved
+y05,e4,c1,80,0.5,pending
+y06,e0,c2,80,0.5,approved
+y07,e1,c2,40,0.5,approved
+y08,e3,c2,40,0.5,approved
+y09,e7,c2,40,0.5,approved
+y10,e9,c1,40,0.6,approved
+y11,e9,c2,40,0.6,approved
+y12,e10,c3,100,1,approved

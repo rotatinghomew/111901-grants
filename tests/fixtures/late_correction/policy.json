@@ -1,0 +1,27 @@
+{
+  "observation_date": "2026-06-30",
+  "lookback_days": 60,
+  "currency": {
+    "decimal_places": 2,
+    "rounding": "ROUND_HALF_UP",
+    "quantize_level": "aggregate"
+  },
+  "ledger_revision": "rev-3",
+  "tier_thresholds": [
+    {"tier": 1, "min_weighted_residents": 3, "reimbursement_rate": 1.0},
+    {"tier": 2, "min_weighted_residents": 6, "reimbursement_rate": 0.9},
+    {"tier": 3, "min_weighted_residents": 9, "reimbursement_rate": 0.8}
+  ],
+  "resident_groups": {
+    "youth": ["r1", "r3", "r5", "r7", "r9", "r11"]
+  },
+  "previously_served_residents": ["r0", "r1"],
+  "other_funding": {
+    "c3": 30
+  },
+  "share_sum_limit": 1.0,
+  "corrections": {
+    "applied_status": "applied",
+    "pending_status": "pending"
+  }
+}
